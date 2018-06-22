@@ -1,0 +1,51 @@
+body{
+    height: 100%;
+    margin: 0;
+    background-image: url("https://vignette.wikia.nocookie.net/harrypotter/images/c/c6/B1-background.jpg/revision/latest?cb=20111017204834");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+    width: 100%; 
+    font-family: fantasy;
+    line-height: 400%;
+    
+
+}
+
+
+#trivia{
+    background-color: black;
+    color: goldenrod;
+    margin: auto;
+    line-height: 2em;
+
+}
+
+.jumbotron{
+    background-color: black;
+    color: goldenrod;
+    padding: 20px;
+    float: center;
+    margin: auto;
+    width: 100%;
+}
+
+.button{
+    background-color: goldenrod;
+
+}
+h2{
+    font-size: 20px;
+    padding-top: 55px;
+}
+input[type="radio"]{
+    margin: 5px 20px 5px 20px;
+  }
+
+h1{
+    text-align: center;
+}
+.lead{
+    text-align: center;
+}
